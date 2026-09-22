@@ -1,6 +1,7 @@
 [project]
-name = "service-shell"
+name = "asean-demand-matching-hub"
 version = "0.1.0"
+description = "东盟跨境需求撮合枢纽：可解释匹配、轮次冻结、预算安全承诺与事件溯源恢复"
 requires-python = ">=3.11"
 
 [tool.unittest]
